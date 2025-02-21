@@ -20,4 +20,10 @@ class Card {
     std::string edition; // 推出版本
 };
 
+class Commander {
+  private:
+    std::string name; // 卡牌名称
+    size_t
+};
+
 #endif //___CLASS_DEFINITION_CARD_H
